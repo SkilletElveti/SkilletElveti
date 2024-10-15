@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on iOS Frameworks
-- 📫 How to reach me skamdi@scu.edu
+- 📫 How to reach me shubhamvkamdi@gmail.com
 
 <!---
 SkilletElveti/SkilletElveti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
